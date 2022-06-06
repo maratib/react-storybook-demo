@@ -5,6 +5,9 @@
 ## Setup
 
 ```bash
+Clone
+git clone git@github.com:maratib/react-tsx-storybook-tailwindcss-vite.git
+
 yarn
 yarn storybook
 
