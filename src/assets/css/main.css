@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* layer base preset */
+/* following when compiled will be inserted at the end of base styles */
+@layer base {
+  /* @font-face {
+    font-family: Oswald;
+    src: url(@/assets/fonts/Oswald/Oswald-Bold.ttf) format("​truetype​");
+  } */
+
+  /* body {
+    @apply z-0 bg-bgBody;
+  }
+  h1 {
+    @apply text-5xl;
+  } */
+  
+}
+
+@layer components {
+  /* .primary_button {
+    @apply bg-gradient-to-r from-primary  to-gradient text-white p-3 rounded-3xl px-8;
+  } */
+
+}
+
+@layer utilities {
+  /* .form-panel {
+    @apply md:mt-0 md:col-span-2 bg-white shadow sm:rounded-md px-4 py-5 sm:p-6;
+  } */
+  
+}
