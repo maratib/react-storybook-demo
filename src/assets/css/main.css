@@ -12,11 +12,12 @@
 
   /* body {
     @apply z-0 bg-bgBody;
-  }
+  } */
+
   h1 {
     @apply text-5xl;
-  } */
-  
+
+  }
 }
 
 @layer components {
@@ -30,5 +31,5 @@
   /* .form-panel {
     @apply md:mt-0 md:col-span-2 bg-white shadow sm:rounded-md px-4 py-5 sm:p-6;
   } */
-  
+
 }

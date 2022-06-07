@@ -24,3 +24,5 @@ npx storybook@latest upgrade
 `sb-react`
 
 
+https://dev.to/elisealcala/start-a-component-library-with-storybook-tailwind-and-typescript-2ofa
+
